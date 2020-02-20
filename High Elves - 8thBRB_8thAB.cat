@@ -5768,7 +5768,7 @@
             </profile>
           </profiles>
           <costs>
-            <cost name="pts" typeId="points" value="40.0"/>
+            <cost name="pts" typeId="points" value="35.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="14d732c3-40cb-474f-1024-efa8dd8186a0" name="AB - Book of Hoeth" page="0" hidden="false" collective="false" import="true" type="upgrade">
@@ -6385,7 +6385,7 @@
             </profile>
           </profiles>
           <costs>
-            <cost name="pts" typeId="points" value="20.0"/>
+            <cost name="pts" typeId="points" value="35.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="fbe0d092-f3b6-797c-d53a-0e2605905435" name="BRB - Scarecrow Banner" page="0" hidden="false" collective="false" import="true" type="upgrade">
@@ -6593,7 +6593,7 @@
             </profile>
           </profiles>
           <costs>
-            <cost name="pts" typeId="points" value="25.0"/>
+            <cost name="pts" typeId="points" value="15.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="02eeda25-2498-7faf-734b-c45d19fdd9ad" name="BRB - Sword of Battle" page="0" hidden="false" collective="false" import="true" type="upgrade">
@@ -6632,7 +6632,7 @@
             <cost name="pts" typeId="points" value="20.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="9afef15a-7fc3-b588-5af2-13f449349839" name="BRB - Biting Blade" page="0" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="9afef15a-7fc3-b588-5af2-13f449349839" name="BRB - Biting Blade" publicationId="6d2bd945--pubN67354" page="501" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="maxInRoster" type="max"/>
@@ -6650,7 +6650,7 @@
             <cost name="pts" typeId="points" value="10.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="015e53c8-49bb-a176-d56c-d91c8467b05b" name="BRB - Shrieking Blade" page="0" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="015e53c8-49bb-a176-d56c-d91c8467b05b" name="BRB - Shrieking Blade" publicationId="6d2bd945--pubN67354" page="501" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="maxInRoster" type="max"/>
@@ -6704,7 +6704,7 @@
             <cost name="pts" typeId="points" value="5.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="8c534879-b868-209f-a71c-c9cf551a9fe1" name="BRB - Relic Sword" page="0" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="8c534879-b868-209f-a71c-c9cf551a9fe1" name="BRB - Relic Sword" publicationId="6d2bd945--pubN67354" page="501" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="maxInRoster" type="max"/>
@@ -6722,7 +6722,7 @@
             <cost name="pts" typeId="points" value="10.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="31ffa2eb-8f38-6a8d-82fa-49b6c9e91678" name="BRB - Gold Sigil Sword" page="0" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="31ffa2eb-8f38-6a8d-82fa-49b6c9e91678" name="BRB - Gold Sigil Sword" publicationId="6d2bd945--pubN67354" page="501" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="maxInRoster" type="max"/>
@@ -6740,7 +6740,7 @@
             <cost name="pts" typeId="points" value="15.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="33f5424f-0998-7704-ce42-7de79da049fc" name="BRB - Berserker Sword" page="0" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="33f5424f-0998-7704-ce42-7de79da049fc" name="BRB - Berserker Sword" publicationId="6d2bd945--pubN67354" page="501" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="maxInRoster" type="max"/>
@@ -6776,7 +6776,7 @@
             <cost name="pts" typeId="points" value="25.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="26e0536c-71a5-e384-565b-922d77966514" name="BRB - Spellthieving Sword" page="0" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="26e0536c-71a5-e384-565b-922d77966514" name="BRB - Spellthieving Sword" publicationId="6d2bd945--pubN67354" page="501" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="maxInRoster" type="max"/>
@@ -6794,7 +6794,7 @@
             <cost name="pts" typeId="points" value="25.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="e7a02ba4-7a04-0316-5836-6cf8464cfb98" name="BRB - Sword of Anti-Heroes" page="0" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="e7a02ba4-7a04-0316-5836-6cf8464cfb98" name="BRB - Sword of Anti-Heroes" publicationId="6d2bd945--pubN67354" page="501" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="maxInRoster" type="max"/>
@@ -6812,7 +6812,7 @@
             <cost name="pts" typeId="points" value="30.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="7c29f117-7841-77bf-475e-d2069f625d65" name="BRB - Fencer&apos;s Blades" page="0" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="7c29f117-7841-77bf-475e-d2069f625d65" name="BRB - Fencer&apos;s Blades" publicationId="6d2bd945--pubN67354" page="501" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="maxInRoster" type="max"/>
@@ -6848,7 +6848,7 @@
             <cost name="pts" typeId="points" value="40.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="b702999a-102d-60a0-473e-0d7ba17f417d" name="BRB - Ogre Blade" page="0" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="b702999a-102d-60a0-473e-0d7ba17f417d" name="BRB - Ogre Blade" publicationId="6d2bd945--pubN67354" page="501" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="maxInRoster" type="max"/>
@@ -6866,7 +6866,7 @@
             <cost name="pts" typeId="points" value="40.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="cf7aef44-abde-57d9-c2be-f075ce3f90a4" name="BRB - Obsidian Blade" page="0" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="cf7aef44-abde-57d9-c2be-f075ce3f90a4" name="BRB - Obsidian Blade" publicationId="6d2bd945--pubN67354" page="501" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="maxInRoster" type="max"/>
@@ -6902,7 +6902,7 @@
             <cost name="pts" typeId="points" value="60.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="4fbb06a3-c2d6-88d5-bf43-30d840160456" name="BRB - Giant Blade" page="0" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="4fbb06a3-c2d6-88d5-bf43-30d840160456" name="BRB - Giant Blade" publicationId="6d2bd945--pubN67354" page="501" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="maxInRoster" type="max"/>
@@ -6988,7 +6988,7 @@
         <constraint field="points" scope="parent" value="-1.0" percentValue="false" shared="false" includeChildSelections="true" includeChildForces="false" id="maxPoints" type="max"/>
       </constraints>
       <selectionEntries>
-        <selectionEntry id="7a4ba9e1-d9e5-458a-0264-3fe570704770" name="BRB - Talisman of Protection" page="0" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="7a4ba9e1-d9e5-458a-0264-3fe570704770" name="BRB - Talisman of Protection" publicationId="6d2bd945--pubN67354" page="503" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="maxSelections" type="max"/>
             <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="maxInRoster" type="max"/>
@@ -7001,7 +7001,7 @@
             </profile>
           </profiles>
           <costs>
-            <cost name="pts" typeId="points" value="10.0"/>
+            <cost name="pts" typeId="points" value="15.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="5389d728-1bef-66bd-96f6-f5c375f4196f" name="BRB - Luckstone" page="0" hidden="false" collective="false" import="true" type="upgrade">
